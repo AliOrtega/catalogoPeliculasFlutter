@@ -1,0 +1,193 @@
+[
+    {
+      "title": "Frankenweenie",
+      "year": 2012,
+      "director": "Tim Burton",
+      "genre": "Animación, Comedia, Fantasía",
+      "synopsis": "Un joven científico revive a su perro fallecido en esta conmovedora película animada.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Art_of_Frankenweenie.jpg/640px-The_Art_of_Frankenweenie.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=wHi7HRmxqWI"
+    },
+    {
+      "title": "Isla de perros",
+      "year": 2018,
+      "director": "Wes Anderson",
+      "genre": "Animación, Aventura, Comedia",
+      "synopsis": "Un niño emprende un viaje para encontrar a su perro exiliado en una isla habitada por perros.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/mIwagN43jqMkBOEuHLNSlBBbzxq.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=5ekU8bbf1k8"
+    },
+    {
+      "title": "El viaje de Chihiro",
+      "year": 2001,
+      "director": "Hayao Miyazaki",
+      "genre": "Animación, Fantasía, Aventura",
+      "synopsis": "Una niña queda atrapada en un mundo de espíritus y debe encontrar la forma de regresar a casa.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sen_to_Chihiro_no_kamikakushi.jpg/640px-Sen_to_Chihiro_no_kamikakushi.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=0Fobamq5NdM"
+    },
+    {
+      "title": "El castillo ambulante",
+      "year": 2004,
+      "director": "Hayao Miyazaki",
+      "genre": "Animación, Fantasía, Aventura",
+      "synopsis": "Sophie, convertida en anciana por un hechizo, busca a un mago para romper la maldición.",
+      "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ym6sfaLgPx4vyBZFmQzsV37uvk5.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=BCDEOoNYW18"
+    },
+    {
+      "title": "Soul",
+      "year": 2020,
+      "director": "Pete Docter",
+      "genre": "Animación, Drama, Comedia",
+      "synopsis": "Un profesor de música experimenta la vida después de la muerte y trata de regresar a su cuerpo.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=3QIdlo4uIVg"
+    },
+    {
+      "title": "El extraño mundo de Jack",
+      "year": 1993,
+      "director": "Henry Selick",
+      "genre": "Animación, Fantasía, Musical",
+      "synopsis": "Jack Skellington intenta apoderarse de la Navidad, causando una divertida confusión.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/9bmSoNaRZaH1uARIeGgdSCELo5i.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=wr6N_hZyBCk"
+    },
+    {
+      "title": "El niño y la bestia",
+      "year": 2015,
+      "director": "Mamoru Hosoda",
+      "genre": "Animación, Aventura, Fantasía",
+      "synopsis": "Un niño huérfano entra a un mundo fantástico y se convierte en aprendiz de una bestia.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/eeH3tGP4VbQ3VhONuxt6jpPge2I.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=A1PCUW3fh38"
+    },
+    {
+      "title": "Persépolis",
+      "year": 2007,
+      "director": "Marjane Satrapi, Vincent Paronnaud",
+      "genre": "Animación, Drama",
+      "synopsis": "Una joven iraní reflexiona sobre los cambios sociales y políticos de su país.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/1XSTjORhsqSQgdYTzHrAuPDVC2.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=GsQJf2U-2B0"
+    },
+    {
+      "title": "WALL·E",
+      "year": 2008,
+      "director": "Andrew Stanton",
+      "genre": "Animación, Ciencia Ficción, Aventura",
+      "synopsis": "Un robot solitario en un mundo postapocalíptico descubre el amor y la esperanza para la humanidad.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/WALL-E_poster.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=IYPe2oWBV_w"
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "director": "Lee Unkrich",
+      "genre": "Animación, Aventura, Familia",
+      "synopsis": "Un niño apasionado por la música descubre secretos familiares en el mundo de los muertos.",
+      "imageUrl": "https://image.tmdb.org/t/p/original/uiMFkVjihhFBstiwngIPuc5Dwhi.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=awzWdtCezDo"
+    },
+    {
+        "title": "The Lorax",
+        "year": 2012,
+        "director": "Chris Renaud",
+        "genre": "Animación, Comedia, Familia",
+        "synopsis": "Un niño busca la ayuda del Lorax para salvar los árboles y restaurar el equilibrio en su mundo.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/b7FMtquHglzxIi938cHIgVQuPx5.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=QoDDebdn9ps"
+      },
+      {
+        "title": "Flow",
+        "year": 2020,
+        "director": "Makoto Nagahisa",
+        "genre": "Animación, Drama",
+        "synopsis": "Un viaje musical que explora la vida y las emociones de los protagonistas.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/2PPvMc165yk0zafItbitQ2ZqZyo.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=izIuFUnZkjA"
+      },
+      {
+        "title": "La leyenda de Hei",
+        "year": 2019,
+        "director": "MTJJ",
+        "genre": "Animación, Fantasía, Aventura",
+        "synopsis": "Un espíritu gato se embarca en una travesía mientras lucha por el equilibrio entre humanos y espíritus.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/pMQYLHXYyqw8FGp1QD6BEWpm7bs.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=Ps0O9l2CvOM&list=PLgJfzq4kXG_6dnApe3Tu0KhIwftFABYI_"
+      },
+      {
+        "title": "Pinocchio",
+        "year": 2022,
+        "director": "Guillermo del Toro",
+        "genre": "Animación, Fantasía, Drama",
+        "synopsis": "Una adaptación stop-motion que reinventa la historia clásica de Pinocho.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/qWgGJNqoo8m0BQQJ7BU2SnBUFpe.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=-WgZ_IQU0Ks"
+      },
+      {
+        "title": "El tiempo contigo",
+        "year": 2019,
+        "director": "Makoto Shinkai",
+        "genre": "Animación, Fantasía, Romance",
+        "synopsis": "Un joven se muda a Tokio y forma un vínculo con una chica que tiene el poder de manipular el clima.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/2YB2xBcEdXr4Oy258XNvncQRTuc.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=dwHXIY-h2fA"
+      },
+      {
+        "title": "El mago de los sueños",
+        "year": 1966,
+        "director": "Francisco Macián",
+        "genre": "Animación, Fantasía",
+        "synopsis": "El mago ayuda a los niños a dormir mientras desata una serie de aventuras fantásticas en su mundo.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/wF5Re3biOg4Otlaewj1IgKc3CVz.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=KWeNDZi-IgU"
+      },
+      {
+        "title": "To Every You I’ve Loved Before",
+        "year": 2022,
+        "director": "Jun Matsumoto",
+        "genre": "Animación, Romance, Ciencia Ficción",
+        "synopsis": "Un joven explora múltiples realidades donde su amor por una chica toma diferentes caminos.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/cknsY5TlLtpWFTI5y7mjAAhrUfS.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=jmu-Pp3saRc"
+      },
+      {
+        "title": "To Me, The One Who Loved You",
+        "year": 2022,
+        "director": "Jun Matsumoto",
+        "genre": "Animación, Romance, Ciencia Ficción",
+        "synopsis": "Una historia paralela que muestra otro lado del amor en realidades alternativas.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/yfgl6Pz1O1Z8rB8S6rrq3i1pUkU.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=5ypYxc6mG4o"
+      },
+      {
+        "title": "Up",
+        "year": 2009,
+        "director": "Pete Docter",
+        "genre": "Animación, Aventura, Comedia",
+        "synopsis": "Un anciano y un niño se embarcan en una aventura para cumplir un sueño con una casa flotante.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/4UpNg3ejFazDjMZ3g9R56RSRVWD.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=-90w8fOjFJQ"
+      },
+      {
+        "title": "Memorias de un caracol",
+        "year": 2020,
+        "director": "Takeshi Nozue",
+        "genre": "Animación, Fantasía",
+        "synopsis": "Una historia poética sobre las emociones y recuerdos perdidos en la vida de un caracol.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/pjIQxnP0tobp15Boe9L4oea8RTK.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=EdbFaA9Kh08"
+      },
+      {
+        "title": "Mary y Max",
+        "year": 2009,
+        "director": "Adam Elliot",
+        "genre": "Animación, Comedia, Drama",
+        "synopsis": "La amistad por correspondencia entre una niña australiana y un hombre neoyorquino con Asperger.",
+        "imageUrl": "https://image.tmdb.org/t/p/original/nyPeqlTPDNQkC9I4JFwtkzx6bJt.jpg",
+        "trailerUrl": "https://www.youtube.com/watch?v=R_EdOMbUcgU"
+      }
+    ]
+    
+  
